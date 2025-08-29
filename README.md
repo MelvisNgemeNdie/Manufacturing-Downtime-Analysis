@@ -23,7 +23,7 @@ Key findings showed that the **Seiko factory** and the **Laser Welder machine** 
 
 ## 📷 Dashboard Preview
 *(Add a screenshot of your Tableau dashboard here if available)* 
-![Manufacturing Downtime Analysis Overview](Daikibo Manufacturing Company.png)
+![Daikibo Manufacturing Company](Daikibo Manufacturing Company.png)
 
 
 
