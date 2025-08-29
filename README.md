@@ -1,5 +1,4 @@
 # Manufacturing-Downtime-Analysis
-
 ## Overview
 This project focuses on analyzing downtime trends at **Daikibo Manufacturing Company**, highlighting inefficiencies across factories, locations, and machine types.  
 Key findings showed that the **Seiko factory** and the **Laser Welder machine** were the most critical downtime drivers.
