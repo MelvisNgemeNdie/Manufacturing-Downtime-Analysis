@@ -22,7 +22,7 @@ Key findings showed that the **Seiko factory** and the **Laser Welder machine** 
 - **Data Storytelling** – Presented findings and recommendations in a business-oriented manner  
 
 ## 📷 Dashboard Preview
-*(Add a screenshot of your Tableau dashboard here if available)* 
+
 ![Daikibo Manufacturing Company](Daikibo Manufacturing Company.png)
 
 
