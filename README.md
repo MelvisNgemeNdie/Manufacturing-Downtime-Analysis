@@ -23,7 +23,8 @@ Key findings showed that the **Seiko factory** and the **Laser Welder machine** 
 
 ## 📷 Dashboard Preview
 
-![Daikibo Manufacturing Company](Daikibo_Manufacturing_Company.png)
+![Daikibo Manufacturing Dashboard](Daikibo%20Manufacturing%20Company.png)
+
 
 
 
