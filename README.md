@@ -20,6 +20,7 @@ Key findings showed that the **Seiko factory** and the **Laser Welder machine** 
 - **Dashboard Development** – Created clear, decision-focused visualizations  
 - **Data Storytelling** – Presented findings and recommendations in a business-oriented manner  
 ##  Dashboard Preview
-Tableau dashboard can be found here 
+![Daikibo Manufacturing Dashboard](Daikibo%20Manufacturing%20Company.png)
+
 ## Key Takeaway
 By uncovering the **Seiko factory** and **Laser Welder machine** as major downtime drivers, this project proposed actionable strategies to minimize production disruptions and improve workflow efficiency.
