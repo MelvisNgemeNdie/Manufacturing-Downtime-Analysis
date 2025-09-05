@@ -1,5 +1,5 @@
-# Manufacturing Downtime Analysis
-## Project Overview
+## Manufacturing Downtime Analysis
+### Project Overview
 This project focuses on analyzing downtime trends at **Daikibo Manufacturing Company**, highlighting inefficiencies across factories, locations, and machine types.  
 Key findings showed that the **Seiko factory** and the **Laser Welder machine** were the most critical downtime drivers.
 
@@ -7,7 +7,7 @@ Key findings showed that the **Seiko factory** and the **Laser Welder machine** 
 ---
 
 
-## The Problem
+### The Problem
 - The manufacturing process faced recurring downtime, creating production bottlenecks.  
 - The **Seiko factory** recorded the highest downtime (**480 units**).  
 - The **Laser Welder machine** also showed **480 downtime units**, significantly impacting efficiency.
@@ -16,7 +16,7 @@ Key findings showed that the **Seiko factory** and the **Laser Welder machine** 
 ---
 
 
-## Insights
+### Insights
 - Downtime was concentrated in specific factories and machines, with **Seiko + Laser Welder** being the top contributors.  
 - Trends visualized through dashboards highlighted clear patterns of operational inefficiencies.
 
@@ -24,7 +24,7 @@ Key findings showed that the **Seiko factory** and the **Laser Welder machine** 
 ---
 
 
-## Recommendations
+### Recommendations
 - Implement **downtime readiness and recovery plans** for high-risk machines (e.g., Laser Welder).  
 - Introduce **proactive monitoring systems** to detect issues before downtime escalates.  
 - Prioritize maintenance and process optimization at the **Seiko factory** to reduce bottlenecks.
@@ -32,7 +32,7 @@ Key findings showed that the **Seiko factory** and the **Laser Welder machine** 
 ---
 
 
-##  Technologies & Skills Used
+###  Technologies & Skills Used
 - **SQL** – Extracted and analyzed downtime data  
 - **Tableau** – Built interactive dashboards to visualize factory & machine trends  
 - **Data Analysis** – Identified inefficiencies across production sites  
@@ -43,13 +43,13 @@ Key findings showed that the **Seiko factory** and the **Laser Welder machine** 
 ---
 
 
-##  Dashboard Preview
+###  Dashboard Preview
 ![Daikibo Manufacturing Dashboard](Daikibo%20Manufacturing%20Company.png)
 
 
 ---
 
-## Key Takeaway
+### Key Takeaway
 By uncovering the **Seiko factory** and **Laser Welder machine** as major downtime drivers, this project proposed actionable strategies to minimize production disruptions and improve workflow efficiency.
 
 
